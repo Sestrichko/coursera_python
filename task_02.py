@@ -1,0 +1,6 @@
+user_number = int(input('Введите число: '))
+print("   _~_\t\t" * user_number)
+print("   o o\t\t" * user_number)
+print(" /  V  \\\t" * user_number)
+print("/(  _  )\\\t" * user_number)
+print("  ^^ ^^\t\t" * user_number)
